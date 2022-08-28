@@ -1,20 +1,20 @@
-const TeamLead = require("../lib/TeamLead");
-const Employee = require("../lib/Employee");
+const Teamlead = require("../lib/Teamlead");
 
-test("Can set office number via constructor argument", () => {
-  const testValue = 100;
-  const e = new TeamLead("Emily", 1, "test@test.com", testValue);
-  expect(e.officeNumber).toBe(testValue);
+test("Can create an office number.", () => {
+    const testOfficeNumber = 1;
+    const employeeInstance = new Teamlead("Cindy", 3, "cindychynoweth@gmail.com@gmail.com", testOfficeNumber);
+    expect(employeeInstance.officeNumber).toBe(testOfficeNumber);
 });
 
-test('getRole() should return "TeamLead"', () => {
-  const testValue = "TeamLead";
-  const e = new Manager("Emily", 1, "test@test.com", 100);
-  expect(e.getRole()).toBe(testValue);
+test("Testing officeNumber will return office number.", () => {
+    const testOfficeNumber = 3;
+    const employeeInstance = new Teamlead("Cindy", 3, "cindychynoweth@gmail.com", testOfficeNumber);
+    expect(employeeInstance.getOfficeNumber()).toBe(testOfficeNumber);
 });
 
-test("Can get office number via getOffice()", () => {
-  const testValue = 100;
-  const e = new TeamLead("Emily", 1, "test@test.com", testValue);
-  expect(e.getOfficeNumber()).toBe(testValue);
+test("Testing role.", () => {
+    const returnValue = "Teamlead";
+    const employeeInstance = new Teamlead("Cindy", 3, "cindychynoweth@gmail.com", 2);
+    expect(employeeInstance.getRole()).toBe(returnValue);
 });
+
