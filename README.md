@@ -3,7 +3,7 @@
 ## Table of Contents
   
 1. [User Story](#user-story)
-2. [Descritpion](#discription)
+2. [Description](#discription)
 3. [Acceptance Criteria](#acceptance-criteria)
 4. [Screenshot](#screenshot)
 5. [Walkthrough Video](#walkthrough-video)
