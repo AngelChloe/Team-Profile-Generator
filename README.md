@@ -1,5 +1,4 @@
 # Oriented-Programming-Team-Profile-Generator
-# Oriented-ProgrammingProfessional-README-Generator
 
 ## Table of Contents
   
