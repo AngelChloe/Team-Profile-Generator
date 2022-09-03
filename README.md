@@ -1,4 +1,4 @@
-# Oriented-Programming-Team-Profile-Generator
+# Team-Profile-Generator
 
 ## Table of Contents
   
@@ -7,10 +7,9 @@
 3. [Acceptance Criteria](#acceptance-criteria)
 4. [Screenshot](#screenshot)
 5. [Walkthrough Video](#walkthrough-video)
-6. [Live site](#live-site)
-7. [Resources](#resources)
-8. [Credits](#credits)
-9. [Authors and Acknowledgements](#authors-and-acknowledgements)
+6. [Resources](#resources)
+7. [Credits](#credits)
+8. [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 # User Story
 AS A manager
@@ -47,12 +46,10 @@ Your task is to build a Node.js command-line application that takes in informati
 ## Walkthrough Video
  https://drive.google.com/file/d/1a9aIqdw6jlwDVTfykX16EG8nZt6aWsQ3/view
  
-## Live Site
-https://cinderbeast.github.io/Team-Profile-Generator/
  
 ## Resources
 
-- [Repository](https://github.com/Cinderbeast/Oriented-Programming-Team-Profile-Generator)
+- [Repository](https://github.com/Cinderbeast/Team-Profile-Generator)
 
 
 ## Credits
