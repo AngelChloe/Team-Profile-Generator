@@ -40,10 +40,11 @@ Your task is to build a Node.js command-line application that takes in informati
 - I exit the application, and the HTML is generated
 
 ## Screenshot
-![TheTeam](https://user-images.githubusercontent.com/105569378/187111374-4e34050d-8062-4819-8f99-2bbe05f2d38c.png)
+![TeamProfile](https://user-images.githubusercontent.com/105569378/188286495-31095511-baef-4ca6-bfe8-202f5467ee68.png)
+
 
 ## Walkthrough Video
- 
+ https://drive.google.com/file/d/1a9aIqdw6jlwDVTfykX16EG8nZt6aWsQ3/view
  
 ## Resources
 
