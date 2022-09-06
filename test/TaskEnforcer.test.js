@@ -1,8 +1,8 @@
-const Engineer = require("../lib/Taskenforcer");
+const Taskenforcer = require("../lib/Taskenforcer");
 
 test("Can create a github.", () => {
     const testGithub = "Cinderbeast";
-    const employeeInstance = new Engineer("Cindy", 3, "cindychynoweth@gmail.com", testGithub);
+    const employeeInstance = new Taskenforcer("Cindy", 3, "cindychynoweth@gmail.com", testGithub);
     expect(employeeInstance.github).toBe(testGithub);
 });
 
