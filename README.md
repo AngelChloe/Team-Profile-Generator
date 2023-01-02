@@ -49,7 +49,7 @@ Your task is to build a Node.js command-line application that takes in informati
  
 ## Resources
 
-- [Repository](https://github.com/Cinderbeast/Team-Profile-Generator)
+- [Repository](https://github.com/AngelChloe/Team-Profile-Generator)
 
 
 ## Credits
